@@ -1,1 +1,1 @@
-team task on C language printf
+A two-team task on C language printf
